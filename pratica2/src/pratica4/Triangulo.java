@@ -1,4 +1,4 @@
-package pratica2;
+package pratica4;
 import java.util.Scanner;
 public class Triangulo {
 

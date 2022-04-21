@@ -1,4 +1,4 @@
-package pratica1;
+package pratica3;
 import java.util.Scanner;
 
 public class TresNotas {
